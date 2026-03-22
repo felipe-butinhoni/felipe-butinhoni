@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="SEU_LINK_LINKEDIN">
-    <img src="https://www.linkedin.com/in/felipe-butinhoni-405871256/"/>
+    <img src="[https://www.linkedin.com/in/felipe-butinhoni-405871256/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)"/>
   </a>
 
 
