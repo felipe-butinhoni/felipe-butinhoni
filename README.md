@@ -42,7 +42,6 @@
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-butinhoni&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-butinhoni&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
